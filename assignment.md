@@ -4,14 +4,14 @@
 
 About the author
 
-1. My preferred name is **Srinija** and my pronouns are [she/her].
-2. I am a [master of science] majoring in **Applied Data Science** in the Department of [Enginering Education].
-3. I have [Intermediate level] programming in general.
-4. I have [Intermediate level] python programming experience.
-5. I have [Intermediate level] experience with using version control software.
-6. I have [Intermediate level] experience with git.
-7. I have [Intermediate level] experience with probability and statistics.
-8. I have [Intermediate level] experience with linear algebra.
-9. I have [Intermediate level] experience with machine learning.
-10. My github username is [sjonnavithula09].
-11. I have learned the following in this class: [Basics of Python like how to run a loop, if else conditions, libraries like numpy and pandas, machine learning algorithms, visualization of data.].
+1. My preferred name is **XXX** and my pronouns are [she/her, he/him?].
+2. I am a [master] majoring in **XXX** in the Department of [XXX].
+3. I have [which level] programming in general.
+4. I have [which level] python programming experience.
+5. I have [which level] experience with using version control software.
+6. I have [which level] experience with git.
+7. I have [which level] experience with probability and statistics.
+8. I have [which level] experience with linear algebra.
+9. I have [which level] experience with machine learning.
+10. My github username is [XXX].
+11. I have learned the following in this class: [XXX].
